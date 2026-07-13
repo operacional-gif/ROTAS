@@ -1,0 +1,34 @@
+{
+  "entregador": "Anderson1133",
+  "nomeCliente": "Laboratorio",
+  "imagemAppUrl": "",
+  "pendentes": [
+    {
+      "id": 1,
+      "endereco": "Avenida Bernardo de Vasconcelos, 750, Belo Horizonte, MG",
+      "observacao": "377 BERNARDO VASCONCELOS"
+    },
+    {
+      "id": 2,
+      "endereco": "Rua Kepler, 362, Santa Lucia, Belo Horizonte, MG",
+      "observacao": "111 KEPLER"
+    },
+    {
+      "id": 3,
+      "endereco": "Rua Michel Jeha, 20, Sao Bento, Belo Horizonte, MG",
+      "observacao": "56 SAO BENTO"
+    },
+    {
+      "id": 4,
+      "endereco": "Av. dos Engenheiros, 560, Castelo, Belo Horizonte, MG",
+      "observacao": "85 CASTELO"
+    },
+    {
+      "id": 5,
+      "endereco": "BR-356, 3049, Belvedere, Belo Horizonte, MG",
+      "observacao": "88 LEITURA"
+    }
+  ],
+  "concluidas": [],
+  "dataExportacao": "13/07/2026 17:27:31"
+}
